@@ -1,0 +1,53 @@
+_repo: Fanciful-tales_71032
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Burt, Mary E. (Mary Elizabeth)
+    alias: Burt, Mary Elizabeth
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '6710'
+    url: http://www.gutenberg.org/2009/agents/6710
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Stockton
+  editor:
+    agent_name: Langworthy, Julia Elizabeth
+    gutenberg_agent_id: '56047'
+    url: http://www.gutenberg.org/2009/agents/56047
+description: ''
+gutenberg_issued: '2023-06-24'
+identifiers:
+  gutenberg: '71032'
+language: en
+pgterms:marc904: https://archive.org/details/fancifultalesstoc/page/n7/mode/2up
+pgterms:marc905: 20220315084149stockton
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Readers (Elementary)'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Old Pipes and the Dryad -- The Bee-Man of Orn -- The clocks of Rondaine
+  -- The Griffin and the Minor Canon -- The Christmas truants.
+title: Fanciful tales
+url: http://www.gutenberg.org/ebooks/71032
